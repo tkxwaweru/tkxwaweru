@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trevor Waweru</h1>
 <h3 align="center">A passionate fullstack devolper from Nairobi, Kenya.</h3>
+<br>
 
 - 🌱 I’m currently learning **Informatics and Computer Science at Strathmore University (Kenya))**
 
